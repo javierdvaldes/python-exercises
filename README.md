@@ -18,4 +18,4 @@ Nos sumergiremos en diferentes áreas de Python, desde los conceptos fundamental
 - **Manejo de Archivos y Excepciones:** Trabajo con archivos, manejo de errores y excepciones en Python.
 
 ## Acceso a los ejercicios
-Click en el siguiente enlace👉 [Resumen Fundamentos de Data](summary.md)
+Click en el siguiente enlace👉 [Ejercicios Python](exercises)
